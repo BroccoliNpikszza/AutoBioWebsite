@@ -1,0 +1,49 @@
+
+body {
+  background-color : #EFE9D5;
+  font-family : Georgia, Monaco;
+  color : #000000;
+}
+
+
+.navbar {
+  font-family:  Copperplate, Papyrus;
+  background-color: #27445D;
+}
+
+.nav-link {
+  color : white;
+}
+
+.navbar-brand img{
+  width : 40px;
+  height : 40px;
+}
+
+.main{
+  margin-top:100px;
+}
+
+#table1 {
+  width : 50%;
+}
+
+.img_box {
+  border : solid 3px white;
+}
+
+img {
+  width : 100%;
+  height : 100%;
+}
+
+footer {
+  background-color:#27445D;
+  font-family:  Copperplate, Papyrus;
+}
+
+#footer_text {
+  color: #EFE9D5;
+}
+
+
